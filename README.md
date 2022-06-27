@@ -8,3 +8,7 @@ Tools used :
 3. sklearn : Model Building
 4. Python Flask : Server
 5. HTML/CSS/Javascript : UI
+
+![bhp_1](https://user-images.githubusercontent.com/61349437/176005221-a3c17a0c-2dfc-4446-9786-0ff01f515af6.JPG)
+![bhp_2](https://user-images.githubusercontent.com/61349437/176005227-6c1fff95-830d-4550-b988-d5c6c9af1325.JPG)
+
